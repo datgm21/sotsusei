@@ -13,13 +13,6 @@
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 - [2020年度のノベル作品の例](https://github.com/datgm20/sotsusei/wiki/%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB)
 
-### シェーダー関連
-- [Unity Learning Material. パーティクル](https://learning.unity3d.jp/tag/particle/)
-- [Unity Learning Material. シェーダー](https://learning.unity3d.jp/tag/shader/)
-- [Unity Learning Material. VFX Graph](https://learning.unity3d.jp/tag/vfx-graph/)
-- [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
-- [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
-
 
 ## 年間予定
 
@@ -38,34 +31,21 @@
 
 ## 1週目(4/21, 22)
 
-### 企画案を出す
+- 木曜日：プログラムとCGに分かれて、主に開発を進める
+- 金曜日：グループで企画について打ち合わせる
 
+制作は学生主体で行うことを原則とする。企画内容や仕様、進捗を教員に伝え、教員から出た質問を記録してチームの打ち合わせで話し合った結果を次の週に回答する。メモや進め方を工夫して欲しい。
 
-## 1週目
-### ガイダンス
-- シラバス
+### 今週やること
+- 木曜日(今日)：下準備。各自、卒業制作で作ってみたい作品の企画案を出す
+- 金曜日(明日)：企画をクラス内で共有。自分以外の作品で好みのものがあれば、そこに合流。次週の木曜日に、各自、それぞれ何を選んだかを報告
 
-#### 年間の目標
-- 4-5月:準備
-  - ゲームCGキャラクター
-    - 得意分野の選択 / ポートフォリオの初版を完成
-  - ゲームプログラマー
-    - 開発環境の選択 / チーム制作練習
-- 6-7月:チーム制作の練習
-    - 試作品の開発
-- 9-11月
-  - DAT展示作品の開発
-- 12月
-  - ポートフォリオ / 公開用Webページ / クオリティアップ
-- 1-2月
-  - Webで公開・頒布
+### 下準備
+- [企画アイディア](https://docs.google.com/document/d/1_DssJw_yhy3QZwinSIvjlfOxMIcr9airKHb5-unula4/edit?usp=sharing)
+  - EXの方は金曜日に進めるので、木曜日は卒業制作用のものを進める
+  - 金曜日は教室が不明なので、共有ドライブのデータはアクセスできない可能性がある。GoogleドライブやGitHubなどのクラウドサービスを利用する
+  - 検討している企画案は、GoogleスライドかGoogleドキュメントにまとめる
 
-#### 今週やること
-- 1回目：下準備。自己紹介をして、それぞれの持ち味を確認して、企画の方向性について雑談
-- 2回目：企画について検討を進めて、最後に少し発表
-
-### 講義資料
-- [こちら](https://github.com/datgm20/sotsusei/blob/main/01.md)
 
 
 
