@@ -47,6 +47,6 @@
 
 
 ## 過去の学生作品の公開ページ
-- [2020年度生](https://datgm20.gitnub.io/works/)
+- [2020年度生](https://datgm20.github.io/works/)
 - [2019年度生](https://dat19.github.io/works/)
 
