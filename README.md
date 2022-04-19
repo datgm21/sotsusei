@@ -3,11 +3,10 @@
 - [Slack](https://datgm21.slack.com)
 - [質問・報告]()
 - [参考URL](https://github.com/datgm21/sotsusei/blob/main/URLs.md)
-- [講義日程](https://github.com/datgm21/gp1/blob/main/thud.md)
+- [講義日程](https://github.com/datgm22/gp1/blob/main/thud.md)
 
 
 ## 参考資料
-- [学校で使っているUnityのインストール](https://am1.games/tutorials/unity/install/)
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
