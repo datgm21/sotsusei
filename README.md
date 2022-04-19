@@ -1,6 +1,5 @@
 # 卒業制作情報共有用リポジトリ(2021年度入学生)
 
-- [シラバス]()
 - [Slack](https://datgm21.slack.com)
 - [質問・報告]()
 - [参考URL](https://github.com/datgm21/sotsusei/blob/main/URLs.md)
