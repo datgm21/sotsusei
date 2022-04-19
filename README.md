@@ -41,7 +41,7 @@
 - 金曜日(明日)：企画をクラス内で共有。自分以外の作品で好みのものがあれば、そこに合流。次週の木曜日に、各自、それぞれ何を選んだかを報告
 
 ### 下準備
-- [企画アイディア](https://docs.google.com/document/d/1_DssJw_yhy3QZwinSIvjlfOxMIcr9airKHb5-unula4/edit?usp=sharing)
+- [企画アイディアのまとめ方](https://docs.google.com/document/d/1_DssJw_yhy3QZwinSIvjlfOxMIcr9airKHb5-unula4/edit?usp=sharing)
   - EXの方は金曜日に進めるので、木曜日は卒業制作用のものを進める
   - 金曜日は教室が不明なので、共有ドライブのデータはアクセスできない可能性がある。GoogleドライブやGitHubなどのクラウドサービスを利用する
   - 検討している企画案は、GoogleスライドかGoogleドキュメントにまとめる
