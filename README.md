@@ -40,6 +40,9 @@
 - 木曜日(今日)：下準備。各自、卒業制作で作ってみたい作品の企画案を出す
 - 金曜日(明日)：企画をクラス内で共有。自分以外の作品で好みのものがあれば、そこに合流。次週の木曜日に、各自、それぞれ何を選んだかを報告
 
+### 話題
+- [ゲームクリエイター甲子園2021受賞作品紹介](https://youtu.be/WVOuZTmua_8)
+
 ### 下準備
 - [企画アイディアのまとめ方](https://docs.google.com/document/d/1_DssJw_yhy3QZwinSIvjlfOxMIcr9airKHb5-unula4/edit?usp=sharing)
   - EXの方は金曜日に進めるので、木曜日は卒業制作用のものを進める
