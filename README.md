@@ -3,8 +3,8 @@
 - [シラバス]()
 - [Slack](https://datgm21.slack.com)
 - [質問・報告]()
-- [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
-- [講義日程](https://github.com/datgm21/design/blob/main/wed.md)
+- [参考URL](https://github.com/datgm21/sotsusei/blob/main/URLs.md)
+- [講義日程](https://github.com/datgm21/gp1/blob/main/thud.md)
 
 
 ## 参考資料
