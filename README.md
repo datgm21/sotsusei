@@ -48,7 +48,8 @@
   - EXの方は金曜日に進めるので、木曜日は卒業制作用のものを進める
   - 金曜日は教室が不明なので、共有ドライブのデータはアクセスできない可能性がある。GoogleドライブやGitHubなどのクラウドサービスを利用する
   - 検討している企画案は、GoogleスライドかGoogleドキュメントにまとめる
-
-
-
+- インストール状況の確認
+  - UnityHub3.1.1
+  - Unity2019.4.22f1 + Android Build Support + iOS Build Support + Mac Build Support
+  - Unity2021.3.0f1 + WebGL
 
