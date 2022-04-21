@@ -52,4 +52,8 @@
   - UnityHub3.1.1
   - Unity2019.4.22f1 + Android Build Support + iOS Build Support + Mac Build Support
   - Unity2021.3.0f1 + WebGL
+- 企画案をダウンロードして、以下に提出
+  - `Z:\2022\student\gp2\0421企画案`
+  - ドキュメント名(ファイル名)を「0421氏名_企画案」として、wordか、PDFでダウンロードしたものをコピーして提出
+
 
