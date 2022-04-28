@@ -44,6 +44,7 @@
   - EXの方は金曜日に進めるので、木曜日は卒業制作用のものを進める
   - 金曜日は教室が不明なので、共有ドライブのデータはアクセスできない可能性がある。GoogleドライブやGitHubなどのクラウドサービスを利用する
   - 検討している企画案は、GoogleスライドかGoogleドキュメントにまとめる
+  - [海賊すごろく企画書例](https://github.com/tanakaedu/PirateSugorokuPractice/blob/main/Documents/proposal/index.md)
 - 企画案をダウンロードして、以下に提出
   - `Z:\2022\student\gp2\00企画案`
   - ドキュメント名(ファイル名)を「氏名_企画案」として、wordか、PDFでダウンロードしたものをコピーして提出
