@@ -37,6 +37,7 @@
 ### 予定
 - 企画の報告と相談
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)に作成したドキュメントの共有URLを報告
+    - Googleドキュメント、Googleスライド、WordやPowerPointのデータをGoogleドライブにアップしたものなどを共有して、`リンクを知っている全員に変更`をクリックして、リンクをコピー
   - 説明と質疑応答
 - 企画案を引き続き検討
   - [企画アイディアのまとめ方](https://docs.google.com/document/d/1_DssJw_yhy3QZwinSIvjlfOxMIcr9airKHb5-unula4/edit?usp=sharing)
