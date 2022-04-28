@@ -12,7 +12,7 @@
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 - [2020年度のノベル作品の例](https://github.com/datgm20/sotsusei/wiki/%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB)
-
+- [曲のビートのタイミングを計算する方法](https://am1tanaka.hatenablog.com/entry/beat-calc#%E6%9B%B2%E3%81%AE%E3%83%86%E3%83%B3%E3%83%9D%E3%82%92%E6%8A%8A%E6%8F%A1%E3%81%99%E3%82%8B)
 
 ## 年間予定
 
