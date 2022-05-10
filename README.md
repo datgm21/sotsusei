@@ -29,12 +29,30 @@
 |12月末|試遊会|
 |2月末|Web公開とDVD作成|
 
-## 2週目(4/28, 29)
+## 3週目(5/12)
+
+### 予定
+- 企画の共有と質疑
+  - 前回までに企画案を共有していない場合
+    - Googleドキュメント、Googleスライド、WordやPowerPointのデータをGoogleドライブにアップしたものなどを共有して、`リンクを知っている全員に変更`をクリックして、リンクをコピー
+    - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)にコピーしたドキュメントの共有URLを報告
+  - [企画アイディアのまとめ方](https://docs.google.com/document/d/1_DssJw_yhy3QZwinSIvjlfOxMIcr9airKHb5-unula4/edit?usp=sharing)
+  - EXの方は金曜日に進めるので、木曜日は卒業制作用のものを進める
+  - 検討している企画案は、GoogleスライドかGoogleドキュメントにまとめる
+  - [海賊すごろく企画書例](https://github.com/tanakaedu/PirateSugorokuPractice/blob/main/Documents/proposal/index.md)
+- 企画のまとめ
+  - 金曜日発表用にまとめる
+  - 発表は共有URLでドキュメントにアクセス
+  - 企画書だけでもよい。可能なら画面のモックアップや試作動画を作成
+    - [Voodooの企画](https://youtu.be/ck3yw4xoPNU?t=3494)
+    - [Voodooの進行](https://youtu.be/ck3yw4xoPNU?t=3726)
+
+## 2週目(4/28)
 
 ### 話題
 - [ゲームクリエイター甲子園2022](https://game.creators-guild.com/g4c/16402/)
 
-### 予定
+### 内容
 - 企画の報告と相談
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)に作成したドキュメントの共有URLを報告
     - Googleドキュメント、Googleスライド、WordやPowerPointのデータをGoogleドライブにアップしたものなどを共有して、`リンクを知っている全員に変更`をクリックして、リンクをコピー
@@ -50,7 +68,7 @@
   - ドキュメント名(ファイル名)を「氏名_企画案」として、wordか、PDFでダウンロードしたものをコピーして提出
 
 
-## 1週目(4/21, 22)
+## 1週目(4/21)
 
 - 木曜日：プログラムとCGに分かれて、主に開発を進める
 - 金曜日：グループで企画について打ち合わせる
