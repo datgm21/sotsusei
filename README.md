@@ -31,6 +31,12 @@
 |2月末|Web公開とDVD作成|
 
 ## 12週目(7/21)
+
+### 参考
+- [濱村 崇 / GameDesignLab. 試作・実験](https://twitter.com/GDLab_Hama/status/1541547329890942976)
+- [濱村 崇 / GameDesignLab. 試作・実験(2)](https://twitter.com/GDLab_Hama/status/1542297190986842114)
+
+### 予定
 - 試遊会(2)に向けた準備作業と質疑応答
 
 
