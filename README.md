@@ -38,7 +38,7 @@
 
 ### 予定
 - 試遊会(2)に向けた準備作業と質疑応答
-
+- [作業リスト例](https://docs.google.com/spreadsheets/d/1a81GVve_EQK8OMuRC3rSDjF-qTVIc94dfAAB9KoV1fw/)
 
 ## 11週目(7/14)
 - 試遊版の確認と今後の作業の確認
