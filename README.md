@@ -30,13 +30,25 @@
 |12月末|試遊会|
 |2月末|Web公開とDVD作成|
 
+## 13週目(9/1)
+
+### 予定
+- 各自、夏休み成果の報告
+  - 一人5分程度。最大10分
+  - Google Meetで画面共有
+  - 担当していた箇所を画面に映して報告
+  - 9/8の成果発表までの作業予定
+- 金曜日に9/8の成果報告に向けたチーム打ち合わせをするにあたって、ゲームCGや企画側に確認する必要があるものを文章にまとめる
+- 技術的な不明点の質疑応答
+
+
 ## 12週目(7/21)
 
 ### 参考
 - [濱村 崇 / GameDesignLab. 試作・実験](https://twitter.com/GDLab_Hama/status/1541547329890942976)
 - [濱村 崇 / GameDesignLab. 試作・実験(2)](https://twitter.com/GDLab_Hama/status/1542297190986842114)
 
-### 予定
+### 内容
 - 試遊会(2)に向けた準備作業と質疑応答
 - [作業リスト例](https://docs.google.com/spreadsheets/d/1a81GVve_EQK8OMuRC3rSDjF-qTVIc94dfAAB9KoV1fw/)
 
