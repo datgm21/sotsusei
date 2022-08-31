@@ -1,7 +1,7 @@
 # 卒業制作情報共有用リポジトリ(2021年度入学生)
 
 - [Slack](https://datgm21.slack.com)
-- [質問・報告]()
+- [質問・報告](https://meet.google.com/gcu-fdoy-ysh)
 - [参考URL](https://github.com/datgm21/sotsusei/blob/main/URLs.md)
 - [講義日程](https://github.com/datgm22/gp1/blob/main/thus.md)
 
