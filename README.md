@@ -32,7 +32,7 @@
 
 ## 15週目(9/15)
 ### 予定
-- 試遊会バージョンの確認と講評
+- [3rd試遊会版について](https://docs.google.com/document/d/1_j4RQ9Oi3KvPrVwK-Dk6Xtszrd9KerKK5d4SRPzZ3dw/)
 - 今後の進行の確認
 - 開発
 
