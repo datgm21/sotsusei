@@ -41,11 +41,11 @@
 ## 後期4週目(10/27)
 
 ### 予定
-- 試遊会版の確認と作業
-  - A
-  - B
-  - C
-  - D
+- [4th試遊会 講評](https://docs.google.com/document/d/1Ig1GIQ3-NuCghojCiXrIHxmczA0OsbEKLTXcaYHUTkQ/)
+  - Black Hole
+- 残りの日程
+  - 27(木), 28(金)
+  - 11/2(水), 11/4(金)
 
 ## 後期3週目(10/20)
 
