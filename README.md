@@ -40,9 +40,9 @@
 
 ## 後期4週目(10/27)
 
-### 予定
+### 内容
 - [4th試遊会 講評](https://docs.google.com/document/d/1Ig1GIQ3-NuCghojCiXrIHxmczA0OsbEKLTXcaYHUTkQ/)
-  - Black Hole
+  - Black Holeの講評
 - 残りの日程
   - 27(木), 28(金)
   - 11/2(水), 11/4(金)
