@@ -1,5 +1,10 @@
 # 卒業制作情報共有用リポジトリ(2021年度入学生)
 
+## DATフェスタ準備
+- 11/9(水) 実行ファイルの設定、屋内装飾、全ての作品の操作の確認
+- 11/10(木) 作業が残っていた場合の予備日
+
+## 基本情報
 - [Slack](https://datgm21.slack.com)
 - [質問・報告](https://meet.google.com/gcu-fdoy-ysh)
 - [参考URL](https://github.com/datgm21/sotsusei/blob/main/URLs.md)
