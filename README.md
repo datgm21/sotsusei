@@ -41,6 +41,10 @@
 
 ## 後期5週目
 
+### 話題
+- [来週水曜日 池袋もくもく会](https://weekend-unity.connpass.com/event/266346/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=detail_btn)
+
+
 ### 予定
 - 講評続き
   - チーム内のまとめドキュメントを書き終えていたら編集を**閲覧者に変更**
