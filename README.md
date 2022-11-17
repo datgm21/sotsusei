@@ -46,7 +46,7 @@
 
 
 ### 予定
-- 講評続き
+- [講評続き](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
   - チーム内のまとめドキュメントを書き終えていたら編集を**閲覧者に変更**
 - 作品のまとめ
   - 参考： [昨年度の卒業制作まとめサイト](https://datgm20.github.io/works/)
