@@ -38,6 +38,14 @@
 |12月末|試遊会|
 |2月末|Web公開とDVD作成|
 
+## 後期6週目
+
+### 予定
+- 公開用ページひな形
+- 公開用ページ用の素材提出
+- 各チーム、作業
+  - [講評](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
+
 
 ## 後期5週目
 
@@ -45,7 +53,7 @@
 - [来週水曜日 池袋もくもく会](https://weekend-unity.connpass.com/event/266346/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=detail_btn)
 
 
-### 予定
+### 内容
 - [講評続き](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
   - チーム内のまとめドキュメントを書き終えていたら編集を**閲覧者に変更**
 - 作品のまとめ
