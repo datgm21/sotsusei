@@ -39,7 +39,7 @@
 ### 予定
 - 公開用Webページの作成
   - [2021年度作品ページ](https://datgm21.github.io/works)
-    - [作成の手引き]()
+    - [作成の手引き](make-web.md)
   - 参考 [2020年度生 卒業制作作品集](https://datgm20.github.io/works/)
 - 各チーム、作業
   - [講評](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
