@@ -37,10 +37,10 @@
 ## 後期6週目
 
 ### 予定
-- 公開用ページひな形
+- 公開用Webページの作成
+  - [2021年度作品ページ](https://datgm21.github.io/works)
+    - [作成の手引き]()
   - 参考 [2020年度生 卒業制作作品集](https://datgm20.github.io/works/)
-- 公開用ページ用の素材提出
-  - スクリーンショット、トップページの作品概要の文言、作品ページのスクリーンショットと文言を用意
 - 各チーム、作業
   - [講評](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
 
