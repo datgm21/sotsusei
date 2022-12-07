@@ -38,6 +38,8 @@
 
 ### 資料
 - [学校のロゴデータ](X:\2022年\ゲーム学科2\LOGO)
+- [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
+- [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
 
 ### 内容
 - 各チーム、作業
