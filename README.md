@@ -34,6 +34,30 @@
 |12月末|試遊会|
 |2月末|Web公開とDVD作成|
 
+## 後期10週目(12/22)
+
+### 資料
+- [学校のロゴデータ](X:\2022年\ゲーム学科2\LOGO)
+- [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
+- [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+
+### 内容
+- Webページの更新
+  - 動作が安定した実行ファイルがビルドできる状況であれば、ビルドして提出
+  - ドキュメントの文章をコミットしてプッシュ
+  - [2021年度作品ページ](https://datgm21.github.io/works)
+    - [作成の手引き](make-web.md)
+  - 参考 [2020年度生 卒業制作作品集](https://datgm20.github.io/works/)
+- 各チーム、作業
+  - [講評](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
+  - [機械戦線](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
+    - 戦闘メカニクスの検討
+    - 木とやぶの差し替え
+  - [CAR CRASH. オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
+    - 分割エディター拡張
+  - [Black Holeプレイヤー移動の設計](https://docs.google.com/document/d/1yLhEZd8qyqFe52ZLxApXn2KPtlIrdAaYqwMS9U4gU-A/edit?usp=sharing)
+
+
 ## 後期9週目(12/15)
 
 ### 資料
