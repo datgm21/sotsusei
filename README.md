@@ -34,6 +34,34 @@
 |12月末|試遊会|
 |2月末|Web公開とDVD作成|
 
+## 後期14週目(1/26)
+
+### 資料
+- [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+
+### 内容
+
+Webページ、実行ファイルの提出(評価版)。
+
+- Webページ(最終候補)
+  - ドキュメントの文章や画像をコミット＞プッシュ＞プルリクエスト
+    - Pull requests タブを選択して、Create Pull request を押して編集結果の更新を依頼
+  - [2021年度作品ページ](https://datgm21.github.io/works)
+    - [作成の手引き](make-web.md)
+  - 参考 [2020年度生 卒業制作作品集](https://datgm20.github.io/works/)
+- 各チーム、作業
+  - [講評](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
+  - [機械戦線](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
+    - 戦闘メカニクスの検討
+    - 木とやぶの差し替え
+  - [CAR CRASH. オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
+    - 分割エディター拡張
+  - [Black Holeプレイヤー移動の設計](https://docs.google.com/document/d/1yLhEZd8qyqFe52ZLxApXn2KPtlIrdAaYqwMS9U4gU-A/edit?usp=sharing)
+- 実行ファイル(評価版)の更新
+  - 評価版として実行ファイルをビルドして `X:\2022年\ゲーム学科2\平井・田中・細谷\最新実行ファイル` 内の各フォルダへ上書きコピーして提出
+  - Webページのzipもこれに更新してコミット＞プッシュ＞プルリクエスト
+
+
 ## 後期10-13週目(12/22, 1/5, 12, 19)
 
 ### 話題
