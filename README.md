@@ -38,6 +38,8 @@
 
 ### 資料
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+- [破壊オブジェクトを作成するパッケージ](https://github.com/tanakaedu/MeshBreaker)
+
 
 ### 内容
 
