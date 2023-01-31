@@ -35,12 +35,26 @@
 |2月|Web公開とDVD作成|
 |2/3(金)|最終日|
 
-## 後期14週目(1/26)
+## 後期15回目(2/2)
 
 ### 資料
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
 - [破壊オブジェクトを作成するパッケージ](https://github.com/tanakaedu/MeshBreaker)
 
+### 予定
+- プロジェクト提出
+  - Unityプロジェクトをデスクトップにコピーする
+  - デスクトップにコピーしたUnityプロジェクトフォルダーを開いて `.git`と`Library`フォルダーを削除する
+  - デスクトップにコピーしたプロジェクトフォルダーを右クリックして 7-Zip > 圧縮を選んでzip形式で圧縮
+  - 圧縮したzipファイルを指定のフォルダーにコピー
+- プロジェクトレビュー
+- まとめ
+
+## 後期14週目(1/26)
+
+### 資料
+- [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+- [破壊オブジェクトを作成するパッケージ](https://github.com/tanakaedu/MeshBreaker)
 
 ### 内容
 
